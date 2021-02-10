@@ -1,7 +1,6 @@
 # Tic-Tac-Toe
 
 A simple Tic-Tac-Toe game on console.
-
 The text interface makes the game more fun to play.
 ## Can be played in:
     1. Single Player(vs Computer)
